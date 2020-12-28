@@ -1,6 +1,6 @@
 # vue-aliplayer
 
-基于 aliplayer 封装 vue 视频播放器组件，相较于在社区找到的其他 vue-aliplayer 插件，具有以下特点：
+基于 vue 封装 aliplayer 视频播放器组件，相较于在社区找到的其他 vue-aliplayer 插件，具有以下特点：
 
 * 兼容 aliplayer sdk 2.8.2 版本
 * 视频自适应居中
